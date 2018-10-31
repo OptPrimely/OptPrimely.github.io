@@ -3,7 +3,7 @@
 
 ## @ [OptPrimely.github.io](OptPrimely.github.io)
 
-opt
+opt  
 /äpt/
 
 #### verb:  
@@ -20,6 +20,23 @@ choose, elect, decide, make/reach the decision, make up one's mind
 ![thisTxt?][Opt_Etymology]  
 
 late 19th century:  
-from ***French*** *opter*, from ***Latin*** *optare* __‘choose, wish.’__
+from ***French*** *opter*, from ***Latin*** *optare* __‘choose, wish.’__  
 
-[Opt_Etymology]: /Images/OptEtym.png/ "Etymology of Opt from Google"
+
+
+Origin of primely.  
+First recorded in 1605–15; prime + -ly  
+
+![What's This?][Prime_Etymology]
+
+1 In the first place, in the highest degree; firstly, primarily, originally.  
+2 Informal. Exceedingly well; excellently; extremely.
+Being the most desired or suitable example of something:  
+a prime candidate for the study.  
+3 Of or relating to the USDA highest grade of beef, having abundant marbling and usually only sold at restaurants.  
+4 First or early in time, order, or sequence: the prime action of the drug.
+
+Old English prīm (sense 2 of the noun), from Latin prima (hora ) ‘first (hour),’ reinforced in Middle English by Old French prime ; the adjective dates from late Middle English, via Old French from Latin primus ‘first.’
+
+[Opt_Etymology]: /Images/EtymOpt.png/ "Etymology of Opt from Google"
+[Prime_Etymology]: /Images/EtymPrime.png/ "Etymology of Prime from Google"

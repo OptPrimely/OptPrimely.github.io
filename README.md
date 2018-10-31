@@ -22,6 +22,6 @@ choose, elect, decide, make/reach the decision, make up one's mind
 ![thisTxt?][Opt_Etymology]
 
 late 19th century:  
-from French **opter**, from Latin **optare** __‘choose, wish.’__
+from ***French*** *opter*, from ***Latin*** *optare* __‘choose, wish.’__
 
 [Opt_Etymology]: /Images/OptEtym.png/ "Etymology of Opt from Google"
